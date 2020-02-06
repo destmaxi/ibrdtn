@@ -43,3 +43,7 @@ version.m4
 *.gcda
 
 Android.mk
+
+compile
+test-driver
+.dirstamp

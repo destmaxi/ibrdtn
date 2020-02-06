@@ -42,3 +42,5 @@ version.m4
 
 Android.mk
 
+compile
+test-driver
